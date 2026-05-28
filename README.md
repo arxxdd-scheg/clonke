@@ -7,6 +7,10 @@
 также есть флаги, t (text), n (number), nt (number and text) 
 
 ## флаги нужно ставить в начале команды: 
-t.text("hello"), n.text(18), nt.text("hello i'm 18 years old")
+t.text("hello"), 
+
+n.text(18), 
+
+nt.text("hello i'm 18 years old")
 
 без флагов ваш скрипт станет недействительным!
